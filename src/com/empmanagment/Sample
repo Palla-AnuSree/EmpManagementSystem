@@ -1,7 +1,7 @@
 package com.empmanagment;
 public class Sample
 {
-   public int i,j;
+   public int i,j,k;
    public Sample(int i)
    {
       this.i=i;
